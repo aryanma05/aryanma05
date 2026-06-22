@@ -1,4 +1,4 @@
-# Hi! I'm Aryan Ali
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&width=500&lines=Hi%2C+I'm+Aryan+Ali!;)](https://git.io/typing-svg)
 
 I am a Computer Science student in my 3rd year at the University of Oslo studying Programming and System Architecture.
 
